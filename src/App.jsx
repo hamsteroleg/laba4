@@ -20,7 +20,7 @@ function App() {
       <button onClick={() =>
         setTheme(theme === "light" ? "dark" : "light")
       }>
-        Toggle Theme
+        Змінити тему
       </button>
 
       <Header />
